@@ -17,5 +17,6 @@ public class do1 {
 		System.out.println(Arrays.toString(num3));
 		int[] num4= {1,2,3};
 		System.out.println(Arrays.toString(num4));
+		System.out.println("hi");
 	}
 }
